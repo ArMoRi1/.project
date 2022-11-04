@@ -111,10 +111,7 @@ body{
     transition: 1s;
     top: 70px;
 }
-.meet_the_team:unhover .triangle_down{
-    transition: 1s;
-    top: 70px;
-}
+
 .team_cards{
     margin-bottom: 105px;
     text-align: center;
