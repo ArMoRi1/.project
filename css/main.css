@@ -8,7 +8,6 @@
 body{
     background-color: #665464;
     width:1100px;
-
     margin-left: 250px;
     margin-right: 250px;
     font-family: 'Lato', sans-serif;
@@ -17,14 +16,12 @@ body{
 .logo_section{
     display:flex;
     justify-content: space-between;
-    
 }
 .acrostia{
     padding-top: 11px;
 }
 .menu {
     margin: 0;
-    
     display: flex;
     justify-content: center;
 }
@@ -38,8 +35,6 @@ body{
     text-decoration: none;
     color: white;
     text-align: center;
-    
-    
 }
 .menu a:hover {
     background-color: #91778e;
@@ -70,12 +65,9 @@ body{
     margin-bottom: 0;
 }
 .main{
-   
     margin-top: 60px;
-    
     display: flex;
     flex-direction: column;
-
 }
 .meet_the_team{
     margin: 0 auto;
@@ -94,10 +86,8 @@ body{
     font-weight: 900;
     text-transform: uppercase;
     color: #ffffff;
-    
 }
 .triangle_down{
-    
     width: 0;
     height: 0;
     border-left: 15px solid transparent;
@@ -111,7 +101,6 @@ body{
     transition: 1s;
     top: 70px;
 }
-
 .team_cards{
     margin-bottom: 105px;
     text-align: center;
@@ -124,8 +113,7 @@ body{
 }
 .member{
     border-radius: 5px;
-   background-color: #5a4a58; 
-   
+   background-color: #5a4a58;  
    list-style-type: none;
    box-sizing: border-box;
    padding-top: 50px;
@@ -136,7 +124,6 @@ body{
 
 .member ol li{
     list-style-type: none;
-   
 }
 
 .member_title{
@@ -175,7 +162,6 @@ body{
 }
 
 i{
-    
     width: 30px;
     height: 30px;
     font-size: 31px;
@@ -183,11 +169,9 @@ i{
     margin-bottom: 27px;
     background: #a1859e;
     border-radius: 50%;
-    
  }
 
  .fa-user{
-    
     background-color: #fff;
     color:#5b4b59;
     width: 135px;
@@ -204,27 +188,20 @@ i{
     outline: 5px solid #df5c64;
 }
  i.fa-facebook-f{
-    
     color: #fff;
     background-color: #a1859e;
-   
     line-height: 31px;
     width: 31px;
     height: 31px;
     font-size: 20px;
-    
-    
 }
  i.fa-twitter{
-    
     width:31px;
     line-height: 31px;
     height: 31px;
     font-size: 20px;
  }
- i.fa-google-plus-g{
-    
-   
+ i.fa-google-plus-g{ 
     width:31px;
     line-height: 31px;
     height: 31px;
@@ -236,9 +213,7 @@ i{
     height: 31px;
     font-size: 20px;
  }
-
 .fa-facebook-f:hover{
-  
     background-color: #4f689e;
      transition: 0.5s;
 }
@@ -246,7 +221,6 @@ i{
     background-color: #74c7d5;
      transition: 0.5s;
 }
-
 .fa-google-plus-g:hover{
     background-color: #df5c64;
     transition: 0.5s;
